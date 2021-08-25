@@ -1,0 +1,13 @@
+COVID-19 TURKIYE ISTATISTIKLERI
+MEVCUT RAKAMLAR YAZILIYOR...
+
+Toplam Test Sayisi       :1000
+Toplam Vaka Sayisi       :0
+Toplam Vefat Sayisi      :0
+Toplam Yogun Bakim Sayisi:0
+Toplam Entube Sayisi     :0
+Toplam Iyilesen Sayisi   :0
+Toplam Karantina Sayisi  :0
+
+MEVCUT RAKAMLAR YAZILDI...
+SAGLIGIN ICIN #EVDEKAL...
